@@ -1,6 +1,4 @@
 opencv-python
 scikit-image
-wandb
 tqdm
 matplotlib
-tensorboard
